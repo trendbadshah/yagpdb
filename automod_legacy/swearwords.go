@@ -75,4 +75,8 @@ var BuiltinSwearWords = map[string]bool{
 	"asshat":      true,
 	"pu55y":       true,
 	"pen1s":       true,
-}
+}        "mc":            true, 
+           "bc":           true, 
+          "madrchod":  true, 
+          "behnchod":   true, 
+         "bhnchod":    true, 
